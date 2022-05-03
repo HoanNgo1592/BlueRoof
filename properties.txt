@@ -1,0 +1,5 @@
+hoan2#Duluth#345 Old Noscross#1500 sqft#4#3.5#yes#yes#Great Wall, City Farmer Market#i85#380000
+hoan3#Cumming#1234 Old Alphareta#2000 sqft#4#3.5#yes#yes#ARC#I-85#400000
+hoan3#Bufford#435 Mall Drive#1500#3#2#yes#yes#Mall of Georgia#985, 85#370000
+hoan3#Lawrenceville#124 Dean Road#1200 sqft#4#3#yes#yes#kroger#i85#340000
+hoan7#Lawrenceviller#456 Dean Road#1500 sqft#3#2#yes#yes#Kroger#i85#300000

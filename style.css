@@ -1,0 +1,198 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.banner{
+	width: 100%;
+	height: 80px;
+}
+
+a:link{
+	color: #b3e5fc;
+}
+a:hover{
+	color: #e1f5fe;
+}
+a:visited{
+	color: #b3e5fc;
+}
+
+.banner-top{
+	width: 100%;
+	height: 50%;
+	text-align: center;
+	font-size: 30px;
+	background-color: #01579b;
+}
+
+.banner-bottom{
+	width: 100%;
+	height: 50%;
+	text-align: left;
+	background-color: #0288d1;
+}
+
+.welcome{
+	animation-name: welcom;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear;
+	position: relative;
+	font-size: 30px;
+}
+
+@keyframes welcom{
+	0%{color: #e1f5fe;left: 0%;}
+	100%{color: #0288d1;left: 80%;}
+}
+
+.menubar{
+	width: 100%;
+	height: 40px;
+	background-color: #03a9f4;
+	display: inline-block;
+	text-align: right;
+	font-size: 20px;
+
+}
+.menuitems{
+	padding: 10px;
+}
+
+main{
+	width: 90%;
+	height: 100%;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 20px;
+}
+span{
+	color: #03a9f4;
+}
+
+.center{
+	text-align: center;
+}
+
+.house1{
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+.house2{
+	width: 250px;
+	float: right;
+}
+
+h2.center{
+	margin-bottom: 0px;
+}
+
+p.center{
+	opacity: 50%;
+}
+
+form{
+	background-color: #03a9f4;
+	width: 60%;
+	border-radius: 10px;
+	box-shadow: 10px 15px #0288d1;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+
+table{
+	margin-right: auto;
+	margin-left: auto;
+	width: 95%;
+}
+
+td.submit{
+	text-align: center;
+}
+
+td.terms{
+	font-size: 10px;
+	text-align: center;
+}
+
+input{
+	min-height: 30px;
+	font-size: 15px;
+	min-width: 80%;
+}
+
+input.right{
+	width: 98%;
+}
+
+input.type{
+	font-size: 10px;
+	text-align: center;
+}
+
+input.submit{
+	background-color: #01579b;
+	color: #b3e5fc;
+	border-radius: 15px;
+}
+
+label{
+	text-align: center;
+}
+
+label.checkbox{
+	margin-left: -700px;
+	font-size: 15px;
+}
+
+.dashboard{
+	background-color: #03a9f4;
+	width: 60%;
+	border-radius: 10px;
+	box-shadow: 10px 15px #0288d1;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-align: center;
+}
+
+.logo{
+	width: 200px;
+	margin-right: 20px;
+}
+
+.add{
+	background-image: url("images/add.png");
+	border-radius: 100%;
+	width: 260px;
+	height: 260px;
+}
+.favorite{
+	background-image: url("images/favorite.png");
+	width: 45px;
+	height: 45px;
+}
+
+td.frame{
+	border-radius: 10px;
+	border: 5px solid #0288d1;
+	height: 300px;
+	width: 300px;
+	margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
